@@ -116,21 +116,6 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
   e.preventDefault();
 
   emailjs
-    .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', this)
-    .then(() => {
-      alert('Message Sent Successfully!');
-      this.reset();
-    })
-    .catch((error) => {
-      console.log(error);
-      alert('Failed to send message, try again!');
-    });
-});
-
-document.getElementById('contactForm').addEventListener('submit', function (e) {
-  e.preventDefault();
-
-  emailjs
     .sendForm('service_5dpomcd', 'template_jskqrak', this)
     .then(() => {
       alert('Message Sent Successfully!');
