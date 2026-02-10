@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Excel Learning Platform",
+    "description": "Educational platform to learn Excel with video lessons.",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JavaScript", "Python", "Django"],
+    "live": "https://abdokhaledshaaban.github.io/Data-Cell/index.html#",
+    "code": "#"
+  },
+  {
+    "title": "Cruds APP",
+    "description": "Modern Cruds website.",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "",
+    "code": "#"
+  },
+  {
+    "title": "Web Site With HTML & CSS",
+    "description": "Web app with using HTML & CSS.",
+    "image": "",
+    "technologies": ["HTML", "CSS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Music Player",
+    "description": "Web app with using HTML, CSS & JS to play sounds.",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "برنامج مصحف",
+    "description": "برنامج مصحف لتشغيل ايات القرءان بأصوات الشيوخ وتكرار الايات",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "E-Commerce",
+    "description": "An E-Commerce online shopping.",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Ball Play",
+    "description": "A Small Play with ball.",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Calculator App",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Calculator App 2",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "A memory game",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Dino Jump Game",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "X,O Game",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  },
+  {
+    "title": "Guess the Number Game",
+    "description": "",
+    "image": "",
+    "technologies": ["HTML", "CSS", "JS"],
+    "live": "#",
+    "code": "#"
+  }
+]
